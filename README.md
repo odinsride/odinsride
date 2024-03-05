@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kevin Custer. I build things with Rails and Vue in my spare time, and with ServiceNow at work.
+I'm Kevin Custer. I build things with Rails in my spare time, and with ServiceNow at work.
 
 ### I'm currently working on ...
 
