@@ -4,15 +4,15 @@ I'm Kevin Custer. I build things with Rails and Vue in my spare time, and with S
 
 ### I'm currently working on ...
 
-* **[olubalance](https://olubalance.com)** - A personal finance app that has helped my wife and I pay off debts and become financially responsible.  It is a Rails 6 app and uses Postgres, Webpack, Stimulus, StimulusReflex, and Bulma.  I've learned a lot building it and am continually thinking of and working on new ways to improve the app.
+* **[olubalance](https://olubalance.com)** - A personal finance app that has helped my wife and I pay off debts and become financially responsible.  It is a Rails 6 app and uses Postgres, Webpack, Stimulus, and Bulma.  I've learned a lot building it and currently working on a complete rewrite using the knowledge and patterns I've learned about while working on the original version.
 * Building a self-hosted personal cloud, powered by Debian, Docker, and Tailscale
 * Freelance opportunities: Wordpress, Shopify, Custom development, and finding the best solutions for clients
 
 ### Tech Interests (besides web development!)
 
 * Linux
-* Docker / Containerization
-* Virtualization / ESXi
+* Docker
+* Virtualization
 * Homelabbing and Self hosting
 * Hardware / PC building
 
