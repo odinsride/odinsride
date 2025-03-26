@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Kevin Custer. I build things with Rails in my spare time, and with ServiceNow at work.
+I'm Kevin Custer. I build things with Rails, JavaScript, and Python in my spare time, and with ServiceNow at work.
 
 ### I'm currently working on ...
 
-* **[olubalance](https://olubalance.com)** - A personal finance app that has helped my wife and I pay off debts and become financially responsible.  It is a Rails 6 app and uses Postgres, Webpack, Stimulus, and Bulma.  I've learned a lot building it and currently working on a complete rewrite using the knowledge and patterns I've learned about while working on the original version.
-* Building a self-hosted personal cloud, powered by Debian, Docker, and Tailscale
-* Freelance opportunities: Wordpress, Shopify, Custom development, and finding the best solutions for clients
+* **[olubalance](https://github.com/odinsride/olubalance)** - A personal finance app that has helped my wife and I pay off debts and become financially responsible.  It is a Rails app backed by Postgres, esbuild, Hotwire/Stimulus, and Bulma CSS.  I've learned a lot building it and continue to add features and enhancements.
+* Building a self-hosted personal cloud, powered by Ubuntu, Docker, and Tailscale
+* Freelance opportunities: Wordpress, Shopify, Custom development, and more!
 
 ### Tech Interests (besides web development!)
 
@@ -25,18 +25,3 @@ I'm Kevin Custer. I build things with Rails in my spare time, and with ServiceNo
 ### Fun fact
 
 I'm also a photographer! I enjoy capturing landscapes and nature photos. See my photography **[here](https://photos.kevin-custer.com)**
-
-<!--
-**odinsride/odinsride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
