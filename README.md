@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kevin Custer. I build things with **Rails**, **JavaScript**, and **Python** in my spare time, and with _ServiceNow_ at work.
+I'm Kevin Custer. I build things with **Rails**, **JavaScript**, and **Python** in my spare time, and with **_ServiceNow_** at work.
 
 ### I'm currently working on ...
 
